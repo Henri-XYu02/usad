@@ -1,4 +1,5 @@
 See USAD_SIM.ipynb
+Need to do pip install scikit-learn(can't install through poetry)
 
 # USAD - UnSupervised Anomaly Detection on multivariate time series
 
