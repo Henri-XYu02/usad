@@ -1,3 +1,5 @@
+See USAD_SIM.ipynb
+
 # USAD - UnSupervised Anomaly Detection on multivariate time series
 
 Scripts and utility programs for implementing the USAD architecture.
